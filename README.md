@@ -7,8 +7,8 @@ It contains a basic homepage (`index.html`) along with sample product images.
 
 ## 📂 Project Structure
 - `index.html` → Main homepage file  
-- `gulab_chand.jpeg` → Sample product image  
-- `hemant_chand.jpg` → Sample product image  
+- `gulab_chand.jpeg` → Sample image  
+- `hemant_chand.jpg` → Sample image  
 - `.github/workflows/` → GitHub Actions workflows  
 
 ---
@@ -16,7 +16,7 @@ It contains a basic homepage (`index.html`) along with sample product images.
 ## 🚀 How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/YourUsername/your-repo-name.git
+   git clone https://github.com/jarvis153/The_Jarvis_Cart.git
 
 2. Open the index.html file in any browser.
 
