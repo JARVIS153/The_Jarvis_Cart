@@ -8,7 +8,11 @@ It contains a basic homepage (`index.html`) along with sample product images.
 ## 📂 Project Structure
 - `index.html` → Main homepage file  
 - `gulab_chand.jpeg` → Sample image  
-- `hemant_chand.jpg` → Sample image  
+- `hemant_chand.jpg` → Sample image
+- `Baracelet.png` → Sample product image
+- `fashion_jwl.png` → Sample product image
+- `goggle.png` → Sample product image
+- `Watch.png` → Sample product image
 - `.github/workflows/` → GitHub Actions workflows  
 
 ---
