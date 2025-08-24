@@ -1,36 +1,48 @@
 # 🛒 E-Commerce Website Index
 
 This is a simple **E-Commerce Website Project**.  
-It contains a basic homepage (`index.html`) along with sample product images.
+It contains a basic homepage (`index.html`) along with sample product images.  
 
 ---
 
 ## 📂 Project Structure
-
-📂 The_Jarvis_Cart ┣ 📂 assets ┃ ┣ 📂 images ┃ ┃ ┣ Bracelet.png ┃ ┃ ┣ Watch.png ┃ ┃ ┣ fashion_jwl.png ┃ ┃ ┣ goggle.png ┃ ┃ ┣ gulab_chand.jpeg ┃ ┃ ┗ hemant_chand.jpg ┣ index.html        → Main homepage file ┣ README.md         → Project documentation ┗ 📂 .github/workflows
-
----
-
-## 🖼️ Sample Product Images
-
-- ![Bracelet](assets/images/Bracelet.png)
-- ![Watch](assets/images/Watch.png)
-- ![Fashion Jewelry](assets/images/fashion_jwl.png)
-- ![Goggle](assets/images/goggle.png)
-- ![Gulab Chand](assets/images/gulab_chand.jpeg)
-- ![Hemant Chand](assets/images/hemant_chand.jpg)
+- `index.html` → Main homepage file  
+- `gulab_chand.jpeg` → Sample team image  
+- `hemant_chand.jpg` → Sample team image
+- `Bracelet.png` → Sample product image
+- `Watch.png` → Sample product image
+- `goggle.png` → Sample product image
+- `fashion_jwl.png` → Sample product image  
+- `.github/workflows/` → GitHub Actions workflows  
 
 ---
 
 ## 🚀 How to Run
-
-1. Clone the repository  
+1. Clone this repository  
    ```bash
-   git clone https://github.com/YourUsername/The_Jarvis_Cart.git
+   git clone https://github.com/YourUsername/your-repo-name.git
 
-2. Open the project folder
-
-cd The_Jarvis_Cart
+2. Open the index.html file in any browser.
 
 
-3. Run index.html in your browser.
+
+
+---
+
+📌 Features
+
+Simple homepage design
+
+Product image support
+
+Clean and expandable structure
+
+
+
+---
+
+👨‍💻 Author
+
+Developed by JARVIS153
+
+---
